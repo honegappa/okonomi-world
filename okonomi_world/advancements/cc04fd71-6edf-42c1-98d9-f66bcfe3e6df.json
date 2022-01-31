@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2022-01-31 11:57:32 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2022-01-29 23:13:43 +0900"
@@ -463,6 +469,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2022-01-31 11:57:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2022-01-31 11:57:32 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2022-01-30 03:55:54 +0900"
@@ -784,6 +802,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-01-30 03:29:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2022-01-31 11:57:32 +0900"
     },
     "done": true
   },
@@ -1430,6 +1454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2022-01-31 11:57:32 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2022-01-30 15:31:35 +0900"
@@ -1585,6 +1615,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2022-01-29 23:25:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2022-01-31 11:57:32 +0900"
     },
     "done": true
   },
