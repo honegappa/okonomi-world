@@ -611,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2022-02-04 22:14:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2021-12-31 21:50:18 +0900"
@@ -649,6 +655,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-02-05 00:16:00 +0900",
       "minecraft:skeleton": "2021-12-31 22:09:15 +0900",
       "minecraft:spider": "2021-12-31 23:11:54 +0900",
       "minecraft:creeper": "2022-01-05 22:04:49 +0900",
@@ -664,6 +671,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2022-01-08 21:57:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2022-02-04 22:51:28 +0900"
     },
     "done": true
   },
@@ -943,6 +956,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2022-02-04 22:14:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2022-01-08 21:57:23 +0900"
@@ -1114,6 +1133,12 @@
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_orange_dye": "2021-12-31 21:56:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-02-04 22:14:27 +0900"
     },
     "done": true
   },
@@ -1488,6 +1513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2022-02-04 23:42:57 +0900"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2022-01-08 21:37:43 +0900",
@@ -1655,6 +1686,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2022-01-08 21:29:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-02-04 22:14:27 +0900"
     },
     "done": true
   },
@@ -1882,6 +1919,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2022-01-05 21:24:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2022-02-04 22:14:27 +0900"
     },
     "done": true
   },
@@ -2347,6 +2390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2022-02-04 22:14:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2022-01-11 22:28:00 +0900"
@@ -2416,6 +2465,12 @@
   "minecraft:recipes/decorations/black_candle": {
     "criteria": {
       "has_black_dye": "2022-01-01 20:00:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2022-02-04 22:14:27 +0900"
     },
     "done": true
   },
@@ -2506,6 +2561,12 @@
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2022-01-10 23:56:41 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2022-02-04 23:42:57 +0900"
     },
     "done": true
   },
@@ -2815,6 +2876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2022-02-04 22:14:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2021-12-31 22:16:37 +0900"
@@ -2878,6 +2945,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2022-01-10 22:47:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-02-04 22:14:27 +0900"
     },
     "done": true
   },
