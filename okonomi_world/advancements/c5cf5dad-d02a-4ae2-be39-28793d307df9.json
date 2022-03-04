@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2022-03-04 00:22:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2021-12-31 22:16:37 +0900"
@@ -806,11 +812,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2022-02-05 00:16:00 +0900",
+      "minecraft:blaze": "2022-03-04 00:20:15 +0900",
       "minecraft:skeleton": "2021-12-31 22:09:15 +0900",
       "minecraft:ravager": "2022-02-23 20:22:57 +0900",
       "minecraft:hoglin": "2022-02-08 21:44:26 +0900",
       "minecraft:guardian": "2022-02-27 14:28:01 +0900",
       "minecraft:vindicator": "2022-02-23 20:20:29 +0900",
+      "minecraft:magma_cube": "2022-03-04 00:23:55 +0900",
       "minecraft:spider": "2021-12-31 23:11:54 +0900",
       "minecraft:creeper": "2022-01-05 22:04:49 +0900",
       "minecraft:wither": "2022-02-27 19:14:05 +0900",
@@ -819,6 +827,7 @@
       "minecraft:phantom": "2022-02-20 00:55:56 +0900",
       "minecraft:zombified_piglin": "2022-01-08 21:30:43 +0900",
       "minecraft:witch": "2022-02-13 15:25:22 +0900",
+      "minecraft:wither_skeleton": "2022-03-04 00:20:11 +0900",
       "minecraft:piglin": "2022-01-08 21:44:46 +0900",
       "minecraft:enderman": "2022-02-08 22:07:37 +0900",
       "minecraft:vex": "2022-02-23 20:28:40 +0900",
@@ -942,6 +951,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2022-03-04 00:22:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2022-02-25 20:44:54 +0900"
@@ -993,6 +1008,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2022-01-08 20:44:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2022-03-04 00:22:56 +0900"
     },
     "done": true
   },
@@ -1092,6 +1113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2022-03-04 00:21:59 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2022-01-01 18:52:57 +0900"
@@ -1155,6 +1182,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-02-05 23:37:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2022-03-04 00:22:56 +0900"
     },
     "done": true
   },
@@ -1515,6 +1548,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-01-05 21:24:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2022-03-04 00:22:56 +0900"
     },
     "done": true
   },
@@ -2178,6 +2217,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-02-20 16:30:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2022-03-04 00:22:56 +0900"
     },
     "done": true
   },
@@ -3108,6 +3153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2022-03-04 00:22:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tactical_fishing": {
     "criteria": {
       "tropical_fish_bucket": "2022-02-27 17:00:59 +0900"
@@ -3141,6 +3192,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-01-01 18:52:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-03-04 00:19:13 +0900"
     },
     "done": true
   },
@@ -3414,6 +3471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2022-03-04 00:21:59 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-12-31 23:01:29 +0900"
@@ -3453,6 +3516,12 @@
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2021-12-31 21:56:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2022-03-04 00:21:59 +0900"
     },
     "done": true
   },
@@ -3501,6 +3570,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2022-01-10 22:39:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2022-03-04 00:22:56 +0900"
     },
     "done": true
   },
@@ -3609,6 +3684,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-01-01 22:44:02 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2022-03-04 00:22:56 +0900"
     },
     "done": true
   },
@@ -3780,5 +3861,5 @@
     },
     "done": true
   },
-  "DataVersion": 2865
+  "DataVersion": 2975
 }

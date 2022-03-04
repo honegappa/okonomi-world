@@ -803,6 +803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2022-03-04 00:41:00 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-12-30 22:32:35 +0900"
@@ -1081,6 +1087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2022-03-04 00:41:00 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-12-30 22:34:02 +0900"
@@ -1096,6 +1108,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2021-12-30 22:38:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2022-03-04 00:41:00 +0900"
     },
     "done": true
   },
@@ -1330,6 +1348,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2022-02-26 20:33:26 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2022-03-04 00:41:00 +0900"
     },
     "done": true
   },
@@ -2943,6 +2967,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2022-01-01 20:37:06 +0900",
+      "minecraft:turtle": "2022-03-04 00:53:11 +0900",
       "minecraft:sheep": "2022-01-01 20:26:42 +0900",
       "minecraft:cow": "2022-01-01 22:49:44 +0900",
       "minecraft:chicken": "2022-01-01 22:38:49 +0900",
@@ -4440,5 +4465,5 @@
     },
     "done": true
   },
-  "DataVersion": 2865
+  "DataVersion": 2975
 }
