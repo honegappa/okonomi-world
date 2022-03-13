@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2022-03-13 00:15:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2022-01-16 00:19:44 +0900"
@@ -358,6 +364,7 @@
       "chicken": "2021-12-26 03:07:45 +0900",
       "cooked_mutton": "2021-12-26 03:19:51 +0900",
       "cooked_beef": "2022-01-15 23:52:34 +0900",
+      "chorus_fruit": "2022-03-13 00:15:35 +0900",
       "baked_potato": "2022-01-15 23:46:08 +0900",
       "porkchop": "2021-12-26 03:07:38 +0900",
       "apple": "2021-12-26 02:51:49 +0900",
@@ -1840,5 +1847,5 @@
     },
     "done": true
   },
-  "DataVersion": 2865
+  "DataVersion": 2975
 }

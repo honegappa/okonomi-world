@@ -2622,6 +2622,7 @@
       "chicken": "2022-01-23 00:57:54 +0900",
       "cooked_mutton": "2021-12-31 10:34:15 +0900",
       "cooked_beef": "2021-12-31 10:51:48 +0900",
+      "chorus_fruit": "2022-03-12 23:23:32 +0900",
       "beef": "2021-12-26 22:24:27 +0900",
       "baked_potato": "2022-01-03 20:29:24 +0900",
       "porkchop": "2021-12-26 03:21:24 +0900",
@@ -4209,6 +4210,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2021-12-26 02:14:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2022-03-12 22:55:00 +0900"
     },
     "done": true
   },
