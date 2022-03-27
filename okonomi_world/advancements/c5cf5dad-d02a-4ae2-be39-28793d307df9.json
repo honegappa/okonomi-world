@@ -2081,6 +2081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2022-03-26 23:17:44 +0900"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "pufferfish": "2022-01-16 00:29:04 +0900"
@@ -3509,6 +3515,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-01-01 18:52:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2022-03-26 23:17:44 +0900"
     },
     "done": true
   },
