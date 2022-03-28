@@ -569,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2022-03-28 01:38:33 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2021-12-31 17:58:38 +0900"
@@ -650,6 +656,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-12-26 22:32:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2022-03-28 01:38:33 +0900"
     },
     "done": true
   },
@@ -967,6 +979,7 @@
       "minecraft:piglin": "2022-01-04 22:21:39 +0900",
       "minecraft:enderman": "2021-12-26 23:34:32 +0900",
       "minecraft:silverfish": "2022-01-16 00:14:45 +0900",
+      "minecraft:endermite": "2022-03-28 02:11:25 +0900",
       "minecraft:vex": "2022-01-23 03:40:02 +0900",
       "minecraft:zombie": "2021-12-26 22:41:04 +0900",
       "minecraft:drowned": "2022-01-15 00:25:09 +0900",
@@ -1310,6 +1323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2022-03-28 01:32:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2022-01-17 22:41:23 +0900"
@@ -1517,6 +1536,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2021-12-31 23:14:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2022-03-28 01:38:33 +0900"
     },
     "done": true
   },
@@ -2121,6 +2146,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2022-03-27 23:09:19 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2021-12-26 22:48:03 +0900"
@@ -2412,6 +2443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2022-03-28 01:32:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2021-12-31 10:31:53 +0900"
@@ -2421,6 +2458,12 @@
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2022-01-01 16:22:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_on": {
+    "criteria": {
+      "wax_on": "2022-03-28 04:53:50 +0900"
     },
     "done": true
   },
@@ -2493,6 +2536,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2022-01-01 16:02:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2022-03-28 01:47:07 +0900"
     },
     "done": true
   },
@@ -2788,6 +2837,7 @@
       "beef": "2021-12-26 22:24:27 +0900",
       "baked_potato": "2022-01-03 20:29:24 +0900",
       "porkchop": "2021-12-26 03:21:24 +0900",
+      "tropical_fish": "2022-03-28 02:05:37 +0900",
       "apple": "2022-01-04 21:33:10 +0900",
       "potato": "2021-12-31 20:05:43 +0900",
       "poisonous_potato": "2022-01-23 02:47:20 +0900",
@@ -3633,6 +3683,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2022-01-17 22:39:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2022-03-28 01:59:11 +0900"
     },
     "done": true
   },

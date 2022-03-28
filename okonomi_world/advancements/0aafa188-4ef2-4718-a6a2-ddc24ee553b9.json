@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2022-03-28 00:00:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2022-01-14 00:52:30 +0900"
@@ -1414,6 +1420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2022-03-27 23:42:05 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-01-09 17:29:19 +0900"
@@ -1780,6 +1792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2022-03-28 00:00:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2021-12-26 01:52:17 +0900"
@@ -2075,6 +2093,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2021-12-26 16:23:40 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2022-03-27 23:09:06 +0900"
     },
     "done": true
   },
@@ -2799,6 +2823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2022-03-28 00:00:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2022-01-23 14:47:37 +0900"
@@ -3409,6 +3439,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2021-12-26 02:00:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2022-03-28 00:00:17 +0900"
     },
     "done": true
   },
@@ -4111,6 +4147,12 @@
   "minecraft:recipes/decorations/light_blue_candle": {
     "criteria": {
       "has_light_blue_dye": "2022-01-09 16:19:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2022-03-27 23:42:05 +0900"
     },
     "done": true
   },

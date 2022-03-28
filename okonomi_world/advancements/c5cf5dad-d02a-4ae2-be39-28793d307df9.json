@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2022-03-27 23:56:35 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2021-12-31 22:16:37 +0900"
@@ -617,6 +623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2022-03-27 23:56:35 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-01-01 19:09:10 +0900"
@@ -881,6 +893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2022-03-27 23:59:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2022-02-20 16:01:55 +0900"
@@ -968,6 +986,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2022-02-04 22:51:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2022-03-28 00:08:19 +0900"
     },
     "done": true
   },
@@ -1265,6 +1289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-03-27 23:59:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2022-03-06 21:55:54 +0900"
@@ -1310,6 +1340,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2022-01-05 21:22:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-03-27 23:56:35 +0900"
     },
     "done": true
   },
@@ -1394,6 +1430,18 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2022-03-04 20:18:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2022-03-27 23:58:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2022-03-27 23:54:30 +0900"
     },
     "done": true
   },
@@ -1535,6 +1583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2022-03-27 23:58:07 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2022-02-20 18:43:58 +0900"
@@ -1586,6 +1640,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2022-01-08 21:57:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2022-03-28 00:08:19 +0900"
     },
     "done": true
   },
@@ -2123,6 +2183,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2022-03-27 23:56:35 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_orange_dye": "2021-12-31 21:56:27 +0900"
@@ -2244,6 +2310,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2022-01-01 18:52:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2022-03-27 23:56:35 +0900"
     },
     "done": true
   },
@@ -2694,6 +2766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-03-27 23:59:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2021-12-31 23:05:20 +0900"
@@ -2715,6 +2793,12 @@
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2022-02-08 21:59:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2022-03-27 23:59:56 +0900"
     },
     "done": true
   },
@@ -2895,6 +2979,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2022-01-05 21:02:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2022-03-27 23:56:35 +0900"
     },
     "done": true
   },
@@ -3107,6 +3197,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2022-01-15 22:43:02 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2022-03-27 23:56:35 +0900"
     },
     "done": true
   },
@@ -3602,6 +3698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-03-27 23:56:35 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2022-01-01 18:15:39 +0900"
@@ -3692,6 +3794,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2022-03-27 23:59:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2022-02-27 14:21:50 +0900"
@@ -3725,6 +3833,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2022-02-27 15:04:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-03-27 23:56:35 +0900"
     },
     "done": true
   },
@@ -3860,6 +3974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2022-03-27 23:59:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-12-31 23:01:29 +0900"
@@ -3881,6 +4001,12 @@
   "minecraft:recipes/decorations/light_blue_candle": {
     "criteria": {
       "has_light_blue_dye": "2022-01-08 20:46:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2022-03-27 23:54:30 +0900"
     },
     "done": true
   },
@@ -4052,6 +4178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2022-03-27 23:59:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2022-03-06 22:05:30 +0900"
@@ -4112,6 +4244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2022-03-27 23:59:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2022-03-04 00:22:56 +0900"
@@ -4151,6 +4289,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2022-02-08 21:58:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-03-27 23:59:56 +0900"
     },
     "done": true
   },
