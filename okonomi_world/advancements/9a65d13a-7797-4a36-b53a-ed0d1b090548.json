@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2022-03-28 21:33:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2021-12-31 21:46:31 +0900"
@@ -368,6 +374,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2022-03-27 00:01:02 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2022-03-28 20:17:17 +0900"
     },
     "done": true
   },
@@ -1587,6 +1599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2022-03-28 20:19:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2022-01-01 16:08:23 +0900"
@@ -1644,6 +1662,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2021-12-26 22:35:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2022-03-28 19:41:33 +0900"
     },
     "done": true
   },
@@ -2011,6 +2035,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2021-12-26 02:14:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2022-03-28 20:19:27 +0900"
     },
     "done": true
   },
@@ -2407,6 +2437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2022-03-28 20:17:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2022-01-01 15:28:58 +0900"
@@ -2482,6 +2518,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2021-12-31 17:58:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2022-03-28 20:17:17 +0900"
     },
     "done": true
   },
@@ -2785,6 +2827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2022-03-28 21:33:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2022-01-01 16:21:21 +0900"
@@ -2840,6 +2888,7 @@
       "tropical_fish": "2022-03-28 02:05:37 +0900",
       "apple": "2022-01-04 21:33:10 +0900",
       "potato": "2021-12-31 20:05:43 +0900",
+      "cooked_cod": "2022-03-28 21:47:56 +0900",
       "poisonous_potato": "2022-01-23 02:47:20 +0900",
       "bread": "2021-12-26 03:02:22 +0900",
       "golden_apple": "2022-01-04 21:48:45 +0900",
@@ -4602,6 +4651,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2021-12-31 21:46:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2022-03-28 20:19:27 +0900"
     },
     "done": true
   },
