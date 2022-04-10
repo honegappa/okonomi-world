@@ -481,6 +481,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2022-04-09 22:29:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2022-03-28 01:25:14 +0900"
@@ -637,6 +643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2022-04-09 22:59:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2022-03-12 23:33:47 +0900"
@@ -709,6 +721,7 @@
       "minecraft:skeleton": "2022-03-28 00:10:31 +0900",
       "minecraft:magma_cube": "2022-03-30 00:56:36 +0900",
       "minecraft:spider": "2022-03-12 23:32:30 +0900",
+      "minecraft:creeper": "2022-04-09 23:23:38 +0900",
       "minecraft:slime": "2022-02-12 23:03:09 +0900",
       "minecraft:wither_skeleton": "2022-03-30 00:24:04 +0900",
       "minecraft:piglin": "2022-03-30 00:39:07 +0900",
@@ -905,6 +918,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2022-03-12 23:13:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2022-04-09 22:59:17 +0900"
     },
     "done": true
   },
@@ -1190,6 +1209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2022-04-09 22:29:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2022-02-12 22:55:14 +0900"
@@ -1370,6 +1395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2022-04-09 22:59:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2022-03-30 01:08:48 +0900"
@@ -1475,6 +1506,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-02-12 22:58:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-04-09 22:36:49 +0900"
     },
     "done": true
   },
