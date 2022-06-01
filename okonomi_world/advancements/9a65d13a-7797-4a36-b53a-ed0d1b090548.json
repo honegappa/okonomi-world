@@ -1527,6 +1527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2022-05-31 23:38:10 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2021-12-26 02:11:01 +0900"
@@ -3356,6 +3362,7 @@
       "minecraft:forest": "2021-12-26 01:44:20 +0900",
       "minecraft:lush_caves": "2022-01-13 23:08:30 +0900",
       "minecraft:deep_cold_ocean": "2022-04-16 00:07:33 +0900",
+      "minecraft:desert": "2022-05-31 23:36:55 +0900",
       "minecraft:ocean": "2021-12-26 02:49:46 +0900",
       "minecraft:jungle": "2022-03-12 00:39:13 +0900",
       "minecraft:old_growth_spruce_taiga": "2022-01-15 00:29:20 +0900",
@@ -3433,6 +3440,12 @@
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2022-01-15 23:44:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2022-05-31 23:38:40 +0900"
     },
     "done": true
   },
@@ -3799,6 +3812,7 @@
       "rotten_flesh": "2021-12-31 10:57:10 +0900",
       "suspicious_stew": "2022-01-15 00:35:10 +0900",
       "glow_berries": "2022-01-08 22:37:49 +0900",
+      "enchanted_golden_apple": "2022-05-31 23:38:57 +0900",
       "cod": "2022-01-23 03:08:22 +0900",
       "carrot": "2021-12-31 11:28:33 +0900"
     },
@@ -3825,6 +3839,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2022-03-27 01:26:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2022-05-31 23:18:34 +0900"
     },
     "done": true
   },
@@ -3927,6 +3947,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2021-12-31 17:58:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2022-05-31 23:38:40 +0900"
     },
     "done": true
   },
@@ -4047,6 +4073,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2022-03-03 23:18:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2022-05-31 23:13:46 +0900"
     },
     "done": true
   },
@@ -4629,6 +4661,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2022-03-27 01:26:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2022-05-31 23:38:28 +0900"
     },
     "done": true
   },
