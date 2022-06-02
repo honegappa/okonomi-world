@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2022-06-01 23:11:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2022-01-06 21:59:58 +0900"
@@ -551,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2022-06-01 23:11:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2022-03-04 00:41:00 +0900"
@@ -833,6 +845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2022-06-01 23:11:19 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-12-30 22:16:46 +0900"
@@ -1044,6 +1062,12 @@
       "minecraft:soul_sand_valley": "2022-01-01 16:02:36 +0900",
       "minecraft:warped_forest": "2022-01-01 16:08:57 +0900",
       "minecraft:basalt_deltas": "2022-01-23 15:51:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-06-01 22:56:03 +0900"
     },
     "done": true
   },
@@ -2122,6 +2146,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2022-06-01 23:11:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2021-12-30 22:15:38 +0900"
@@ -2494,6 +2524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2022-06-01 23:11:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2022-01-01 16:04:21 +0900"
@@ -2578,9 +2614,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2022-06-01 23:00:48 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2022-01-04 22:10:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2022-06-01 23:11:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2022-06-01 23:11:18 +0900"
     },
     "done": true
   },
@@ -2710,6 +2764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2022-06-01 23:11:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2021-12-31 18:09:34 +0900"
@@ -2775,6 +2835,7 @@
       "minecraft:pillager": "2021-12-30 23:14:42 +0900",
       "minecraft:blaze": "2022-01-23 00:39:24 +0900",
       "minecraft:skeleton": "2021-12-30 23:04:01 +0900",
+      "minecraft:elder_guardian": "2022-06-01 23:00:46 +0900",
       "minecraft:ravager": "2022-01-23 03:38:50 +0900",
       "minecraft:ghast": "2022-01-08 21:37:02 +0900",
       "minecraft:hoglin": "2022-01-08 21:38:55 +0900",
@@ -3200,6 +3261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2022-06-01 23:11:19 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-01-06 23:11:18 +0900"
@@ -3263,6 +3330,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-12-31 10:49:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2022-06-01 22:56:03 +0900"
     },
     "done": true
   },
@@ -3359,6 +3432,7 @@
       "minecraft:birch_forest": "2022-01-01 17:22:56 +0900",
       "minecraft:windswept_hills": "2021-12-30 22:00:30 +0900",
       "minecraft:wooded_badlands": "2022-02-26 20:35:40 +0900",
+      "minecraft:bamboo_jungle": "2022-06-01 16:17:24 +0900",
       "minecraft:badlands": "2022-02-26 20:37:22 +0900",
       "minecraft:savanna_plateau": "2022-01-11 22:24:57 +0900",
       "minecraft:beach": "2021-12-31 11:42:58 +0900",
@@ -3383,6 +3457,7 @@
       "minecraft:old_growth_spruce_taiga": "2022-01-15 01:20:10 +0900",
       "minecraft:windswept_savanna": "2021-12-30 22:01:58 +0900",
       "minecraft:warm_ocean": "2022-02-26 21:53:44 +0900",
+      "minecraft:deep_lukewarm_ocean": "2022-06-01 20:55:01 +0900",
       "minecraft:flower_forest": "2021-12-30 22:51:54 +0900",
       "minecraft:frozen_peaks": "2022-01-05 21:36:18 +0900",
       "minecraft:old_growth_birch_forest": "2021-12-31 10:45:10 +0900",
@@ -3449,6 +3524,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2022-01-11 21:37:16 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2022-06-01 21:33:18 +0900"
     },
     "done": true
   },
@@ -3632,6 +3713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2022-06-01 23:11:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2021-12-30 22:15:38 +0900"
@@ -3659,6 +3746,12 @@
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2022-01-04 21:03:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-06-01 22:56:03 +0900"
     },
     "done": true
   },
@@ -3911,6 +4004,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2022-06-01 23:11:19 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2021-12-30 22:11:15 +0900"
@@ -3962,6 +4061,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2021-12-31 19:59:26 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2022-06-01 23:11:18 +0900"
     },
     "done": true
   },
@@ -4073,6 +4178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2022-06-02 01:21:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-31 10:56:30 +0900"
@@ -4112,6 +4223,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2022-01-06 21:59:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2022-06-01 23:11:18 +0900"
     },
     "done": true
   },
@@ -4394,6 +4511,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-01-22 21:12:26 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2022-06-01 23:11:18 +0900"
     },
     "done": true
   },
