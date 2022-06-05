@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2022-06-04 22:26:55 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-01-01 23:39:10 +0900"
@@ -242,6 +248,12 @@
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2022-06-03 19:20:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2022-06-04 22:19:53 +0900"
     },
     "done": true
   },
@@ -338,6 +350,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2022-01-23 03:31:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2022-06-04 22:49:16 +0900"
     },
     "done": true
   },
@@ -515,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2022-06-04 19:57:31 +0900"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2022-05-28 23:58:47 +0900"
@@ -560,6 +584,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2022-01-01 23:34:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2022-06-05 05:33:51 +0900"
     },
     "done": true
   },
@@ -715,6 +745,7 @@
       "minecraft:witch": "2022-01-23 03:37:25 +0900",
       "minecraft:piglin": "2022-05-31 23:11:37 +0900",
       "minecraft:enderman": "2022-06-02 19:37:30 +0900",
+      "minecraft:endermite": "2022-06-04 20:20:02 +0900",
       "minecraft:vex": "2022-05-29 00:16:16 +0900",
       "minecraft:zombie": "2022-01-23 03:41:28 +0900",
       "minecraft:drowned": "2022-06-01 13:58:39 +0900",
@@ -743,6 +774,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2022-06-02 17:51:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2022-06-05 01:07:58 +0900"
     },
     "done": true
   },
@@ -974,6 +1011,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2022-06-04 19:55:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-06-01 16:52:58 +0900"
@@ -1163,6 +1206,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2022-06-02 18:17:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2022-06-04 22:35:43 +0900"
     },
     "done": true
   },
@@ -1551,6 +1600,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2022-01-01 23:34:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2022-06-04 22:46:36 +0900"
     },
     "done": true
   },
@@ -2015,6 +2070,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2022-06-04 23:22:58 +0900",
       "cooked_beef": "2022-06-02 22:43:33 +0900",
       "beef": "2021-12-28 01:12:00 +0900",
       "baked_potato": "2022-01-23 02:52:01 +0900",
@@ -2022,12 +2078,14 @@
       "apple": "2022-01-01 23:36:21 +0900",
       "potato": "2022-01-23 02:43:09 +0900",
       "poisonous_potato": "2022-01-23 02:47:14 +0900",
+      "pumpkin_pie": "2022-06-04 22:15:30 +0900",
       "pufferfish": "2022-06-01 22:10:23 +0900",
       "bread": "2022-06-02 01:30:37 +0900",
       "golden_apple": "2022-06-01 23:01:59 +0900",
       "rotten_flesh": "2022-05-29 00:42:04 +0900",
       "suspicious_stew": "2022-06-02 22:03:17 +0900",
       "salmon": "2021-12-28 01:05:32 +0900",
+      "cooked_chicken": "2022-06-05 00:36:05 +0900",
       "cod": "2022-05-31 23:01:20 +0900"
     },
     "done": false
@@ -2224,9 +2282,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2022-06-04 22:26:55 +0900"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:turtle": "2022-06-01 21:23:44 +0900",
+      "minecraft:sheep": "2022-06-04 23:37:22 +0900",
       "minecraft:cow": "2022-06-02 16:21:05 +0900"
     },
     "done": false
@@ -2651,6 +2716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2022-06-04 22:26:55 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2022-01-01 23:39:10 +0900"
@@ -2714,6 +2785,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-05-31 02:14:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2022-06-04 22:46:36 +0900"
     },
     "done": true
   },
@@ -2798,6 +2875,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2022-01-23 03:31:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2022-06-04 23:27:34 +0900"
     },
     "done": true
   },
@@ -3218,6 +3301,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2021-12-28 01:11:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2022-06-04 19:57:31 +0900"
     },
     "done": true
   },
