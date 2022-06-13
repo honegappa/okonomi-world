@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-06-13 18:42:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2021-12-25 22:24:56 +0900"
@@ -284,6 +290,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2022-01-15 14:59:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2022-06-13 19:53:17 +0900"
     },
     "done": true
   },
@@ -482,6 +494,12 @@
   "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
       "has_lime_dye": "2022-01-23 00:54:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2022-06-13 19:55:22 +0900"
     },
     "done": true
   },
@@ -1004,6 +1022,12 @@
   "minecraft:recipes/food/honey_bottle": {
     "criteria": {
       "has_honey_block": "2022-06-12 15:17:26 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2022-06-13 20:39:19 +0900"
     },
     "done": true
   },
@@ -2614,9 +2638,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2022-06-13 20:23:31 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2022-01-23 14:03:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2022-06-13 20:27:02 +0900"
     },
     "done": true
   },
@@ -2791,6 +2827,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2021-12-26 01:43:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2022-06-13 19:53:17 +0900"
     },
     "done": true
   },
@@ -3070,6 +3112,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2021-12-26 16:49:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2022-06-13 20:20:20 +0900"
     },
     "done": true
   },
@@ -3438,12 +3486,14 @@
       "minecraft:windswept_forest": "2022-01-23 14:32:14 +0900",
       "minecraft:ocean": "2021-12-26 16:20:44 +0900",
       "minecraft:jungle": "2021-12-26 17:49:57 +0900",
+      "minecraft:old_growth_spruce_taiga": "2022-06-13 19:48:30 +0900",
       "minecraft:windswept_savanna": "2021-12-25 22:05:54 +0900",
       "minecraft:warm_ocean": "2022-06-12 16:11:38 +0900",
       "minecraft:deep_lukewarm_ocean": "2021-12-26 17:41:57 +0900",
       "minecraft:flower_forest": "2021-12-26 17:27:07 +0900",
       "minecraft:frozen_peaks": "2022-06-12 16:24:25 +0900",
       "minecraft:old_growth_birch_forest": "2021-12-26 16:29:26 +0900",
+      "minecraft:deep_dark": "2022-06-13 20:13:53 +0900",
       "minecraft:meadow": "2022-06-12 16:23:05 +0900",
       "minecraft:windswept_gravelly_hills": "2022-01-09 15:53:13 +0900",
       "minecraft:savanna": "2022-01-23 00:23:51 +0900",
@@ -3930,6 +3980,12 @@
     },
     "done": true
   },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2022-06-13 21:29:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2021-12-26 01:45:37 +0900"
@@ -4221,6 +4277,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2022-02-12 22:38:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/spyglass_at_ghast": {
+    "criteria": {
+      "spyglass_at_ghast": "2022-06-13 21:28:37 +0900"
     },
     "done": true
   },
@@ -4536,6 +4598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2022-06-13 19:53:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2021-12-26 01:19:09 +0900"
@@ -4593,6 +4661,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2021-12-26 03:49:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2022-06-13 23:20:21 +0900"
     },
     "done": true
   },
@@ -4896,5 +4970,5 @@
     },
     "done": true
   },
-  "DataVersion": 2975
+  "DataVersion": 3105
 }
