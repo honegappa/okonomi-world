@@ -605,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2022-06-12 17:08:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2021-12-26 15:22:10 +0900"
@@ -698,6 +704,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2021-12-26 00:12:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2022-06-12 16:12:36 +0900"
     },
     "done": true
   },
@@ -989,6 +1001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2022-06-12 15:17:26 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2021-12-26 20:51:29 +0900"
@@ -1028,6 +1046,12 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2022-04-14 22:22:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2022-06-12 17:00:47 +0900"
     },
     "done": true
   },
@@ -1332,6 +1356,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2021-12-26 04:18:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2022-06-12 17:00:47 +0900"
     },
     "done": true
   },
@@ -1774,6 +1804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2022-06-12 16:24:44 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2021-12-25 22:24:49 +0900"
@@ -1801,6 +1837,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2021-12-26 04:18:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2022-06-12 16:42:19 +0900"
     },
     "done": true
   },
@@ -2290,6 +2332,12 @@
     },
     "done": true
   },
+  "minecraft:nether/charge_respawn_anchor": {
+    "criteria": {
+      "charge_respawn_anchor": "2022-06-12 16:30:57 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2021-12-25 22:24:56 +0900"
@@ -2446,6 +2494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2022-06-12 16:30:13 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2022-03-30 00:58:08 +0900"
@@ -2467,6 +2521,12 @@
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2022-01-08 22:51:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2022-06-12 15:06:55 +0900"
     },
     "done": true
   },
@@ -2647,6 +2707,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2022-01-23 14:58:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2022-06-12 17:00:44 +0900"
     },
     "done": true
   },
@@ -3019,6 +3085,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/spyglass_at_parrot": {
+    "criteria": {
+      "spyglass_at_parrot": "2022-06-12 16:08:23 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2022-01-13 23:46:39 +0900"
@@ -3106,6 +3178,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2021-12-26 20:34:16 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2022-06-12 15:48:39 +0900"
     },
     "done": true
   },
@@ -3341,6 +3419,7 @@
       "minecraft:sunflower_plains": "2021-12-26 17:21:55 +0900",
       "minecraft:birch_forest": "2021-12-26 13:59:14 +0900",
       "minecraft:windswept_hills": "2021-12-25 22:00:32 +0900",
+      "minecraft:wooded_badlands": "2022-06-12 16:15:11 +0900",
       "minecraft:badlands": "2022-01-23 00:26:18 +0900",
       "minecraft:beach": "2021-12-26 01:50:28 +0900",
       "minecraft:dark_forest": "2021-12-26 16:32:03 +0900",
@@ -3350,17 +3429,22 @@
       "minecraft:stony_shore": "2021-12-26 17:14:35 +0900",
       "minecraft:dripstone_caves": "2021-12-26 14:09:50 +0900",
       "minecraft:swamp": "2021-12-26 01:51:24 +0900",
+      "minecraft:grove": "2022-06-12 16:24:56 +0900",
       "minecraft:cold_ocean": "2021-12-26 17:17:43 +0900",
       "minecraft:forest": "2021-12-25 22:00:48 +0900",
       "minecraft:lush_caves": "2021-12-26 16:33:43 +0900",
+      "minecraft:deep_cold_ocean": "2022-06-12 16:27:22 +0900",
       "minecraft:desert": "2022-01-23 00:24:56 +0900",
       "minecraft:windswept_forest": "2022-01-23 14:32:14 +0900",
       "minecraft:ocean": "2021-12-26 16:20:44 +0900",
       "minecraft:jungle": "2021-12-26 17:49:57 +0900",
       "minecraft:windswept_savanna": "2021-12-25 22:05:54 +0900",
+      "minecraft:warm_ocean": "2022-06-12 16:11:38 +0900",
       "minecraft:deep_lukewarm_ocean": "2021-12-26 17:41:57 +0900",
       "minecraft:flower_forest": "2021-12-26 17:27:07 +0900",
+      "minecraft:frozen_peaks": "2022-06-12 16:24:25 +0900",
       "minecraft:old_growth_birch_forest": "2021-12-26 16:29:26 +0900",
+      "minecraft:meadow": "2022-06-12 16:23:05 +0900",
       "minecraft:windswept_gravelly_hills": "2022-01-09 15:53:13 +0900",
       "minecraft:savanna": "2022-01-23 00:23:51 +0900",
       "minecraft:plains": "2021-12-26 02:00:55 +0900"
@@ -3436,6 +3520,12 @@
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2022-01-09 17:28:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2022-06-12 14:55:15 +0900"
     },
     "done": true
   },
@@ -3637,6 +3727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2022-06-12 14:55:15 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2021-12-25 22:24:49 +0900"
@@ -3811,6 +3907,7 @@
       "cooked_mutton": "2021-12-26 01:43:51 +0900",
       "cooked_beef": "2022-01-23 00:23:42 +0900",
       "baked_potato": "2021-12-27 17:21:31 +0900",
+      "golden_apple": "2022-06-12 16:16:17 +0900",
       "glow_berries": "2021-12-26 20:50:09 +0900"
     },
     "done": false
@@ -4076,6 +4173,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2021-12-26 03:57:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2022-06-12 14:55:15 +0900"
     },
     "done": true
   },
@@ -4499,6 +4602,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2022-06-12 15:17:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2022-06-11 14:49:32 +0900"
@@ -4535,6 +4644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2022-06-12 17:00:44 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2021-12-26 04:20:53 +0900"
@@ -4556,6 +4671,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2022-02-05 23:53:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2022-06-12 16:24:44 +0900"
     },
     "done": true
   },
@@ -4643,6 +4764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2022-06-12 15:06:55 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2021-12-31 21:36:06 +0900"
@@ -4700,6 +4827,12 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-01-09 17:29:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2022-06-12 17:08:21 +0900"
     },
     "done": true
   },

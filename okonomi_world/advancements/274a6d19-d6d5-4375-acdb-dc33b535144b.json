@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2022-06-13 00:20:54 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2022-06-04 23:44:24 +0900"
@@ -760,6 +766,7 @@
       "minecraft:magma_cube": "2022-06-06 20:28:36 +0900",
       "minecraft:spider": "2022-05-31 01:39:56 +0900",
       "minecraft:creeper": "2022-06-01 23:43:35 +0900",
+      "minecraft:evoker": "2022-06-13 00:44:57 +0900",
       "minecraft:phantom": "2022-06-01 22:40:43 +0900",
       "minecraft:zombified_piglin": "2022-05-31 21:37:11 +0900",
       "minecraft:witch": "2022-06-04 20:53:59 +0900",
@@ -1850,6 +1857,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2022-06-01 16:21:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2022-06-13 00:20:54 +0900"
     },
     "done": true
   },
