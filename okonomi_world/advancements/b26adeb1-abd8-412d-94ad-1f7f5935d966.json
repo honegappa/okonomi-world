@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-06-14 10:08:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2022-01-06 21:59:58 +0900"
@@ -452,6 +458,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2021-12-30 23:11:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-14 10:13:30 +0900"
     },
     "done": true
   },
@@ -2104,6 +2116,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-14 10:13:30 +0900"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-12-30 22:54:39 +0900"
@@ -2674,6 +2692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-14 10:13:30 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2022-04-10 11:05:47 +0900"
@@ -2764,6 +2788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-14 10:13:30 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2022-02-17 21:37:49 +0900"
@@ -2821,6 +2851,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-12-30 22:09:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2022-06-14 10:14:58 +0900"
     },
     "done": true
   },
@@ -3282,6 +3318,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2021-12-30 22:38:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-14 10:13:30 +0900"
     },
     "done": true
   },
@@ -4204,6 +4246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-14 10:13:30 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-01-06 23:11:18 +0900"
@@ -4375,6 +4423,12 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2022-01-06 22:18:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-14 10:13:30 +0900"
     },
     "done": true
   },
@@ -5016,7 +5070,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/calico.png": "2022-02-26 19:38:05 +0900"
+      "minecraft:calico": "2022-02-26 19:38:05 +0900"
     },
     "done": false
   },
@@ -5086,5 +5140,5 @@
     },
     "done": true
   },
-  "DataVersion": 2975
+  "DataVersion": 3105
 }
