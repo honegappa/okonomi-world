@@ -551,8 +551,12 @@
       "minecraft:magma_cube": "2022-06-13 21:34:45 +0900",
       "minecraft:spider": "2022-06-08 23:22:42 +0900",
       "minecraft:creeper": "2022-06-08 21:58:23 +0900",
+      "minecraft:slime": "2022-06-14 22:10:53 +0900",
+      "minecraft:zombified_piglin": "2022-06-14 18:46:54 +0900",
+      "minecraft:witch": "2022-06-14 22:19:05 +0900",
       "minecraft:zombie": "2022-06-07 23:39:20 +0900",
-      "minecraft:drowned": "2022-06-09 20:49:46 +0900"
+      "minecraft:drowned": "2022-06-09 20:49:46 +0900",
+      "minecraft:zombie_villager": "2022-06-14 22:28:55 +0900"
     },
     "done": false
   },
@@ -571,6 +575,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-06-07 23:34:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2022-06-14 18:16:20 +0900"
     },
     "done": true
   },
@@ -808,6 +818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2022-06-14 22:10:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2022-06-13 22:54:37 +0900"
@@ -937,6 +953,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2022-06-13 22:07:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2022-06-14 23:20:04 +0900"
     },
     "done": true
   },
@@ -1081,6 +1103,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2022-06-08 19:24:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2022-06-14 22:10:56 +0900"
     },
     "done": true
   },
@@ -1329,6 +1357,12 @@
       "minecraft:basalt_deltas": "2022-06-13 20:10:43 +0900"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2022-06-14 18:48:08 +0900"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
@@ -1617,6 +1651,8 @@
       "cooked_mutton": "2022-06-07 23:41:44 +0900",
       "baked_potato": "2022-06-07 23:35:27 +0900",
       "apple": "2022-06-10 09:48:39 +0900",
+      "potato": "2022-06-14 22:33:11 +0900",
+      "bread": "2022-06-14 23:52:14 +0900",
       "rotten_flesh": "2022-06-08 19:06:55 +0900",
       "salmon": "2022-06-09 00:08:07 +0900",
       "dried_kelp": "2022-06-10 23:44:16 +0900",
@@ -1669,6 +1705,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2022-06-08 19:45:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2022-06-14 18:16:20 +0900"
     },
     "done": true
   },
@@ -1860,6 +1902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2022-06-14 18:16:20 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2022-06-07 23:33:17 +0900"
@@ -1947,6 +1995,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2022-06-07 23:34:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2022-06-14 18:16:20 +0900"
     },
     "done": true
   },
@@ -2220,6 +2274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2022-06-14 18:48:08 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2022-06-07 23:34:54 +0900"
@@ -2280,6 +2340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2022-06-14 22:10:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2022-06-08 19:18:10 +0900"
@@ -2328,6 +2394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2022-06-14 18:16:20 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2022-06-13 18:46:39 +0900"
@@ -2346,6 +2418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2022-06-14 18:16:20 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2022-06-08 19:18:10 +0900"
@@ -2361,6 +2439,12 @@
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2022-06-13 19:44:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2022-06-14 22:57:33 +0900"
     },
     "done": true
   },
@@ -2502,6 +2586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2022-06-14 22:17:51 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-06-08 19:17:23 +0900"
@@ -2553,6 +2643,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2022-06-13 21:48:29 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2022-06-14 18:16:20 +0900"
     },
     "done": true
   },

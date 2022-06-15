@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-06-14 22:28:53 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2022-01-09 22:56:27 +0900"
@@ -2828,6 +2834,12 @@
     },
     "done": true
   },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2022-06-15 00:17:36 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2021-12-31 23:31:42 +0900"
@@ -3343,6 +3355,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-01-01 19:09:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2022-06-14 22:32:38 +0900"
     },
     "done": true
   },
@@ -4492,5 +4510,5 @@
     },
     "done": true
   },
-  "DataVersion": 2975
+  "DataVersion": 3105
 }
