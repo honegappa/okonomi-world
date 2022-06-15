@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2022-06-15 21:36:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_lime_dye": "2022-01-23 00:54:33 +0900"
@@ -2092,6 +2098,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2022-06-15 20:56:13 +0900"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-12-26 14:45:22 +0900"
@@ -3175,6 +3187,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2022-06-15 21:36:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2022-03-30 00:58:08 +0900"
@@ -3478,6 +3496,7 @@
       "minecraft:dripstone_caves": "2021-12-26 14:09:50 +0900",
       "minecraft:swamp": "2021-12-26 01:51:24 +0900",
       "minecraft:grove": "2022-06-12 16:24:56 +0900",
+      "minecraft:jagged_peaks": "2022-06-15 22:04:46 +0900",
       "minecraft:cold_ocean": "2021-12-26 17:17:43 +0900",
       "minecraft:forest": "2021-12-25 22:00:48 +0900",
       "minecraft:lush_caves": "2021-12-26 16:33:43 +0900",
@@ -3552,6 +3571,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2022-03-30 00:57:17 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2022-06-15 21:10:55 +0900"
     },
     "done": true
   },
@@ -3888,6 +3913,12 @@
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2022-02-04 05:13:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2022-06-15 22:16:17 +0900"
     },
     "done": true
   },
@@ -4235,6 +4266,12 @@
   "minecraft:husbandry/safely_harvest_honey": {
     "criteria": {
       "safely_harvest_honey": "2022-06-12 14:55:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2022-06-15 22:15:37 +0900"
     },
     "done": true
   },
