@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2022-06-15 22:50:45 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2022-06-10 22:52:50 +0900"
@@ -552,6 +558,7 @@
       "minecraft:spider": "2022-06-08 23:22:42 +0900",
       "minecraft:creeper": "2022-06-08 21:58:23 +0900",
       "minecraft:slime": "2022-06-14 22:10:53 +0900",
+      "minecraft:phantom": "2022-06-16 00:31:11 +0900",
       "minecraft:zombified_piglin": "2022-06-14 18:46:54 +0900",
       "minecraft:witch": "2022-06-14 22:19:05 +0900",
       "minecraft:zombie": "2022-06-07 23:39:20 +0900",
@@ -1338,6 +1345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2022-06-15 22:50:45 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2022-06-08 23:25:38 +0900"
@@ -1363,6 +1376,12 @@
       "minecraft:basalt_deltas": "2022-06-13 20:10:43 +0900"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2022-06-16 00:02:13 +0900"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
@@ -1478,6 +1497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2022-06-15 22:50:45 +0900"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2022-06-10 23:34:15 +0900"
@@ -1535,6 +1560,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2022-06-08 22:15:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2022-06-15 22:50:45 +0900"
     },
     "done": true
   },
@@ -1655,13 +1686,16 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2022-06-07 23:41:44 +0900",
+      "cooked_beef": "2022-06-15 23:02:56 +0900",
       "baked_potato": "2022-06-07 23:35:27 +0900",
       "apple": "2022-06-10 09:48:39 +0900",
+      "spider_eye": "2022-06-15 22:53:36 +0900",
       "potato": "2022-06-14 22:33:11 +0900",
       "bread": "2022-06-14 23:52:14 +0900",
       "rotten_flesh": "2022-06-08 19:06:55 +0900",
       "salmon": "2022-06-09 00:08:07 +0900",
       "dried_kelp": "2022-06-10 23:44:16 +0900",
+      "golden_carrot": "2022-06-15 22:58:23 +0900",
       "cooked_chicken": "2022-06-10 22:51:46 +0900"
     },
     "done": false
@@ -1801,6 +1835,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2022-06-10 18:12:26 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2022-06-16 00:29:38 +0900"
     },
     "done": true
   },
@@ -2370,6 +2410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2022-06-16 00:29:38 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2022-06-13 22:48:47 +0900"
@@ -2673,6 +2719,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_light_gray_dye": "2022-06-13 19:44:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2022-06-15 22:50:45 +0900"
     },
     "done": true
   },
