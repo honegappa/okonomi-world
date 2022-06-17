@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2022-06-16 19:55:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2022-06-10 23:23:40 +0900"
@@ -614,6 +620,12 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-01-15 22:14:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2022-06-16 19:21:57 +0900"
     },
     "done": true
   },
@@ -2250,6 +2262,7 @@
       "rotten_flesh": "2021-12-26 02:29:32 +0900",
       "salmon": "2021-12-26 02:39:21 +0900",
       "dried_kelp": "2022-06-14 00:10:40 +0900",
+      "golden_carrot": "2022-06-16 20:00:21 +0900",
       "cooked_chicken": "2022-06-14 22:53:51 +0900"
     },
     "done": false
