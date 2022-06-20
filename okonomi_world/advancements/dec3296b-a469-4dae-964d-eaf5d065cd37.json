@@ -461,6 +461,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2022-06-19 18:51:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2022-06-19 20:18:32 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2022-06-03 22:17:53 +0900"
@@ -725,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2022-06-19 18:51:06 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2021-12-28 01:03:45 +0900"
@@ -764,6 +782,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2021-12-28 01:02:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2022-06-19 18:51:01 +0900"
     },
     "done": true
   },
@@ -1224,6 +1248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2022-06-19 18:51:11 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-06-06 01:34:28 +0900"
@@ -1344,6 +1374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2022-06-19 18:51:11 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2022-01-23 03:44:45 +0900"
@@ -1386,9 +1422,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2022-06-19 18:51:01 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2022-06-09 19:01:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2022-06-19 18:51:06 +0900"
     },
     "done": true
   },
@@ -1674,6 +1722,7 @@
       "minecraft:flower_forest": "2022-05-29 00:00:16 +0900",
       "minecraft:frozen_peaks": "2022-06-01 23:33:23 +0900",
       "minecraft:old_growth_birch_forest": "2022-01-23 02:55:32 +0900",
+      "minecraft:deep_dark": "2022-06-19 18:18:29 +0900",
       "minecraft:meadow": "2022-06-01 22:48:56 +0900",
       "minecraft:plains": "2021-12-28 01:07:57 +0900"
     },
@@ -1703,6 +1752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2022-06-19 18:51:11 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2022-01-01 23:39:06 +0900"
@@ -1718,6 +1773,12 @@
   "minecraft:recipes/decorations/light_blue_banner": {
     "criteria": {
       "has_light_blue_wool": "2022-05-30 01:15:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2022-06-19 18:51:07 +0900"
     },
     "done": true
   },
@@ -2156,6 +2217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2022-06-19 18:51:07 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2022-06-10 00:06:25 +0900"
@@ -2243,6 +2310,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2022-06-08 22:37:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2022-06-19 18:53:50 +0900"
     },
     "done": true
   },
@@ -2407,6 +2480,7 @@
       "potato": "2022-01-23 02:43:09 +0900",
       "poisonous_potato": "2022-01-23 02:47:14 +0900",
       "pumpkin_pie": "2022-06-04 22:15:30 +0900",
+      "mutton": "2022-06-19 20:07:54 +0900",
       "pufferfish": "2022-06-01 22:10:23 +0900",
       "bread": "2022-06-02 01:30:37 +0900",
       "golden_apple": "2022-06-01 23:01:59 +0900",
@@ -2529,6 +2603,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2022-06-01 16:52:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2022-06-19 18:53:50 +0900"
     },
     "done": true
   },
@@ -3032,6 +3112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2022-06-19 18:29:59 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-12-28 01:03:45 +0900"
@@ -3053,6 +3139,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2022-05-29 00:00:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2022-06-19 18:49:06 +0900"
     },
     "done": true
   },
@@ -3188,6 +3280,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2022-06-19 18:53:50 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2022-05-31 02:33:08 +0900"
@@ -3221,6 +3319,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2022-06-02 15:14:40 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2022-06-19 18:51:01 +0900"
     },
     "done": true
   },
@@ -3539,6 +3643,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2022-06-09 01:33:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2022-06-19 18:51:06 +0900"
     },
     "done": true
   },
