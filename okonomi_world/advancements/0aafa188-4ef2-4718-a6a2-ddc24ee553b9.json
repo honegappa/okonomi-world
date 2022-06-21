@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2022-06-20 19:36:31 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2022-01-09 16:24:17 +0900"
@@ -2375,6 +2381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2022-06-20 19:36:30 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2022-03-30 00:30:35 +0900"
@@ -2780,6 +2792,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2022-06-13 20:23:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2022-06-20 19:36:31 +0900"
     },
     "done": true
   },
