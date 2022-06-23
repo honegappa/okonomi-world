@@ -1079,6 +1079,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2022-06-22 18:01:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2022-03-13 14:39:18 +0900"
