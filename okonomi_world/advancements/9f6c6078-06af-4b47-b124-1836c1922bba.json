@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2022-07-04 17:12:45 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-06-14 21:58:36 +0900"
@@ -648,6 +654,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2022-06-14 22:05:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2022-07-04 17:12:45 +0900"
     },
     "done": true
   },
@@ -1338,6 +1350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2022-07-04 17:12:45 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-06-13 19:51:37 +0900"
@@ -1406,10 +1424,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2022-07-04 17:10:44 +0900",
       "minecraft:birch_forest": "2022-06-16 20:11:06 +0900",
       "minecraft:windswept_hills": "2022-06-13 18:20:33 +0900",
+      "minecraft:beach": "2022-07-04 17:16:38 +0900",
       "minecraft:dark_forest": "2022-06-16 20:13:54 +0900",
       "minecraft:river": "2022-06-14 22:45:48 +0900",
+      "minecraft:stony_shore": "2022-07-04 17:16:50 +0900",
       "minecraft:swamp": "2022-06-16 20:08:15 +0900",
       "minecraft:forest": "2022-06-13 18:22:51 +0900",
       "minecraft:windswept_savanna": "2022-06-13 18:27:14 +0900",
