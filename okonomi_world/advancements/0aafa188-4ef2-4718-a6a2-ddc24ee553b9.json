@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2022-07-09 20:25:04 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2021-12-26 02:26:35 +0900"
@@ -1608,6 +1614,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2022-01-23 01:12:01 +0900",
+      "minecraft:cow": "2022-07-09 20:14:09 +0900",
       "minecraft:chicken": "2022-06-16 21:50:50 +0900",
       "minecraft:axolotl": "2021-12-26 17:51:36 +0900"
     },
@@ -1754,6 +1761,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2021-12-26 02:26:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2022-07-09 20:25:04 +0900"
     },
     "done": true
   },
@@ -3341,6 +3354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2022-07-09 20:37:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2021-12-26 16:49:11 +0900"
@@ -4238,6 +4257,7 @@
       "cooked_mutton": "2021-12-26 01:43:51 +0900",
       "cooked_beef": "2022-01-23 00:23:42 +0900",
       "baked_potato": "2021-12-27 17:21:31 +0900",
+      "apple": "2022-07-09 20:43:02 +0900",
       "golden_apple": "2022-06-12 16:16:17 +0900",
       "glow_berries": "2021-12-26 20:50:09 +0900"
     },
