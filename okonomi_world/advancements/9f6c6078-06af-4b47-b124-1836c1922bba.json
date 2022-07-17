@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2022-07-16 21:08:12 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-06-15 18:57:59 +0900"
@@ -272,6 +278,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2022-06-13 18:24:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2022-07-16 21:08:12 +0900"
     },
     "done": true
   },
@@ -586,6 +598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2022-07-16 21:08:12 +0900"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2022-06-13 18:55:52 +0900"
@@ -613,6 +631,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2022-06-14 22:06:00 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2022-07-16 21:08:12 +0900"
     },
     "done": true
   },
@@ -820,6 +844,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2022-07-16 21:08:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2022-07-16 21:08:12 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2022-06-14 22:56:46 +0900"
@@ -834,6 +870,12 @@
       "minecraft:zombie": "2022-06-16 19:32:43 +0900"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2022-07-16 21:08:12 +0900"
+    },
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -943,6 +985,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2022-07-16 21:08:12 +0900"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2022-06-13 19:00:20 +0900"
@@ -958,6 +1006,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-06-14 21:58:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2022-07-16 21:08:12 +0900"
     },
     "done": true
   },
@@ -1084,6 +1138,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2022-06-14 21:56:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2022-07-16 21:08:12 +0900"
     },
     "done": true
   },
@@ -1579,6 +1639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2022-07-16 21:08:12 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2022-06-13 18:24:09 +0900"
@@ -1656,6 +1722,12 @@
       "minecraft:soul_sand_valley": "2022-06-16 19:21:59 +0900"
     },
     "done": false
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2022-07-16 21:08:12 +0900"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
