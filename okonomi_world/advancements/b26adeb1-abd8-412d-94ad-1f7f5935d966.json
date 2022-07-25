@@ -5322,7 +5322,9 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "minecraft:calico": "2022-02-26 19:38:05 +0900"
+      "minecraft:white": "2022-07-24 20:21:06 +0900",
+      "minecraft:calico": "2022-02-26 19:38:05 +0900",
+      "minecraft:persian": "2022-07-24 20:20:03 +0900"
     },
     "done": false
   },
