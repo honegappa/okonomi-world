@@ -2129,6 +2129,13 @@
     },
     "done": true
   },
+  "craftable_bundles_leather:recipes/bundle_leather": {
+    "criteria": {
+      "has_leather": "2022-08-10 17:32:26 +0900",
+      "has_string": "2022-08-10 17:32:26 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-12-26 02:13:34 +0900"
@@ -2702,6 +2709,13 @@
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2022-03-26 23:25:30 +0900"
+    },
+    "done": true
+  },
+  "craftable_bundles_rabbit_hide:recipes/bundle_rabbit_hide": {
+    "criteria": {
+      "has_rabbit_hide": "2022-08-10 17:32:26 +0900",
+      "has_string": "2022-08-10 17:32:26 +0900"
     },
     "done": true
   },
@@ -5096,5 +5110,5 @@
     },
     "done": true
   },
-  "DataVersion": 3105
+  "DataVersion": 3120
 }

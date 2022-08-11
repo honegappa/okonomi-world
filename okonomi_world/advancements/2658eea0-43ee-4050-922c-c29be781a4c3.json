@@ -323,6 +323,13 @@
     },
     "done": true
   },
+  "craftable_bundles_rabbit_hide:recipes/bundle_rabbit_hide": {
+    "criteria": {
+      "has_rabbit_hide": "2022-08-10 21:21:38 +0900",
+      "has_string": "2022-08-10 21:21:38 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2022-06-09 15:33:17 +0900"
@@ -2519,6 +2526,13 @@
     },
     "done": true
   },
+  "craftable_bundles_leather:recipes/bundle_leather": {
+    "criteria": {
+      "has_leather": "2022-08-10 21:21:38 +0900",
+      "has_string": "2022-08-10 21:21:38 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2022-06-08 23:31:17 +0900"
@@ -2867,5 +2881,5 @@
     },
     "done": true
   },
-  "DataVersion": 3105
+  "DataVersion": 3120
 }

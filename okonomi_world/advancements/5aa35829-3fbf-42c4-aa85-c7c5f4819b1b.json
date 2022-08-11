@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-08-10 23:31:31 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2021-12-25 23:40:47 +0900"
@@ -381,6 +387,13 @@
   "minecraft:recipes/decorations/pink_banner": {
     "criteria": {
       "has_pink_wool": "2021-12-25 23:14:18 +0900"
+    },
+    "done": true
+  },
+  "craftable_bundles_rabbit_hide:recipes/bundle_rabbit_hide": {
+    "criteria": {
+      "has_rabbit_hide": "2022-08-10 23:22:56 +0900",
+      "has_string": "2022-08-10 23:22:56 +0900"
     },
     "done": true
   },
@@ -1212,6 +1225,13 @@
     },
     "done": true
   },
+  "craftable_bundles_leather:recipes/bundle_leather": {
+    "criteria": {
+      "has_leather": "2022-08-10 23:22:56 +0900",
+      "has_string": "2022-08-10 23:22:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2022-01-09 00:07:30 +0900"
@@ -1255,6 +1275,7 @@
       "minecraft:river": "2021-12-27 03:24:39 +0900",
       "minecraft:swamp": "2021-12-27 03:37:31 +0900",
       "minecraft:forest": "2021-12-25 22:51:32 +0900",
+      "minecraft:ocean": "2022-08-10 23:30:09 +0900",
       "minecraft:windswept_savanna": "2021-12-25 22:39:44 +0900"
     },
     "done": false
@@ -1535,5 +1556,5 @@
     },
     "done": true
   },
-  "DataVersion": 2865
+  "DataVersion": 3120
 }
