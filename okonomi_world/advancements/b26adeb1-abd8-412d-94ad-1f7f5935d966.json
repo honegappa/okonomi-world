@@ -1637,6 +1637,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2022-08-13 20:20:16 +0900",
       "minecraft:pig": "2022-01-01 20:37:06 +0900",
       "minecraft:turtle": "2022-03-04 00:53:11 +0900",
       "minecraft:sheep": "2022-01-01 20:26:42 +0900",
@@ -2336,6 +2337,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2022-06-01 23:11:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2022-08-13 20:32:08 +0900"
     },
     "done": true
   },
