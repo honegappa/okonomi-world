@@ -443,6 +443,13 @@
     },
     "done": true
   },
+  "craftable_bundles_rabbit_hide:recipes/bundle_rabbit_hide": {
+    "criteria": {
+      "has_rabbit_hide": "2022-08-14 16:41:02 +0900",
+      "has_string": "2022-08-14 16:41:02 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2022-06-17 20:21:21 +0900"
@@ -3432,6 +3439,13 @@
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2022-06-14 03:13:25 +0900"
+    },
+    "done": true
+  },
+  "craftable_bundles_leather:recipes/bundle_leather": {
+    "criteria": {
+      "has_leather": "2022-08-14 16:41:02 +0900",
+      "has_string": "2022-08-14 16:41:02 +0900"
     },
     "done": true
   },
