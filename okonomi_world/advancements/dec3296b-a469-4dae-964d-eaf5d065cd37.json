@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2022-12-20 22:08:26 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-05-29 03:15:21 +0900"
@@ -458,6 +464,13 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2022-05-31 02:31:31 +0900"
+    },
+    "done": true
+  },
+  "craftable_bundles_rabbit_hide:recipes/bundle_rabbit_hide": {
+    "criteria": {
+      "has_rabbit_hide": "2022-12-20 21:04:37 +0900",
+      "has_string": "2022-12-20 21:04:37 +0900"
     },
     "done": true
   },
@@ -1702,13 +1715,16 @@
     "criteria": {
       "minecraft:snowy_slopes": "2022-06-01 22:49:18 +0900",
       "minecraft:deep_ocean": "2022-06-01 19:56:51 +0900",
+      "minecraft:sunflower_plains": "2022-12-20 22:13:30 +0900",
       "minecraft:birch_forest": "2022-06-01 23:18:12 +0900",
       "minecraft:windswept_hills": "2021-12-28 01:00:47 +0900",
       "minecraft:bamboo_jungle": "2022-06-02 21:15:13 +0900",
+      "minecraft:savanna_plateau": "2022-12-20 23:58:25 +0900",
       "minecraft:beach": "2021-12-28 01:12:25 +0900",
       "minecraft:dark_forest": "2022-06-02 21:46:03 +0900",
       "minecraft:sparse_jungle": "2022-06-02 21:23:43 +0900",
       "minecraft:river": "2021-12-28 01:03:55 +0900",
+      "minecraft:lukewarm_ocean": "2022-12-20 23:39:28 +0900",
       "minecraft:stony_shore": "2022-06-01 20:01:47 +0900",
       "minecraft:dripstone_caves": "2022-06-06 03:10:36 +0900",
       "minecraft:swamp": "2021-12-28 01:07:34 +0900",
@@ -1719,11 +1735,13 @@
       "minecraft:ocean": "2022-05-31 22:02:55 +0900",
       "minecraft:jungle": "2022-06-02 21:16:07 +0900",
       "minecraft:windswept_savanna": "2021-12-28 01:01:47 +0900",
+      "minecraft:deep_lukewarm_ocean": "2022-12-20 23:40:57 +0900",
       "minecraft:flower_forest": "2022-05-29 00:00:16 +0900",
       "minecraft:frozen_peaks": "2022-06-01 23:33:23 +0900",
       "minecraft:old_growth_birch_forest": "2022-01-23 02:55:32 +0900",
       "minecraft:deep_dark": "2022-06-19 18:18:29 +0900",
       "minecraft:meadow": "2022-06-01 22:48:56 +0900",
+      "minecraft:savanna": "2022-12-20 23:49:30 +0900",
       "minecraft:plains": "2021-12-28 01:07:57 +0900"
     },
     "done": false
@@ -2256,6 +2274,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2022-01-23 03:40:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2022-12-21 02:47:27 +0900"
     },
     "done": true
   },
@@ -3533,6 +3557,13 @@
     },
     "done": true
   },
+  "craftable_bundles_leather:recipes/bundle_leather": {
+    "criteria": {
+      "has_leather": "2022-12-20 21:04:37 +0900",
+      "has_string": "2022-12-20 21:04:37 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-12-28 01:11:58 +0900"
@@ -3965,5 +3996,5 @@
     },
     "done": true
   },
-  "DataVersion": 3105
+  "DataVersion": 3120
 }
