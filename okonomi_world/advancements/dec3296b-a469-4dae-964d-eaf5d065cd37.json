@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2023-01-13 23:27:49 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2022-06-01 16:52:58 +0900"
@@ -128,6 +134,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2022-05-31 02:31:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-01-13 23:27:49 +0900"
     },
     "done": true
   },
@@ -248,6 +260,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2022-06-13 18:29:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2023-01-13 23:27:49 +0900"
     },
     "done": true
   },
@@ -759,6 +777,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2022-05-31 02:33:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2023-01-13 21:19:49 +0900"
     },
     "done": true
   },
@@ -1309,6 +1333,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2023-01-14 00:30:34 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2022-06-03 19:20:06 +0900"
@@ -1396,6 +1426,12 @@
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-06-08 23:01:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2023-01-13 21:19:49 +0900"
     },
     "done": true
   },
@@ -1666,6 +1702,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2022-05-31 02:14:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-01-13 23:27:49 +0900"
     },
     "done": true
   },
@@ -2043,6 +2085,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2022-06-04 22:46:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2023-01-14 00:32:17 +0900"
     },
     "done": true
   },
@@ -2526,6 +2574,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2022-05-30 01:18:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2023-01-14 00:30:34 +0900"
     },
     "done": true
   },
@@ -3128,6 +3182,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2023-01-13 23:27:49 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2022-01-01 23:34:14 +0900"
@@ -3227,6 +3287,12 @@
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
       "has_magenta_dye": "2022-05-29 22:22:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2023-01-13 23:27:49 +0900"
     },
     "done": true
   },
@@ -3413,6 +3479,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2022-05-31 02:14:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2023-01-13 23:27:49 +0900"
     },
     "done": true
   },
@@ -3629,6 +3701,12 @@
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-06-08 23:01:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2023-01-13 23:27:49 +0900"
     },
     "done": true
   },
@@ -4128,6 +4206,12 @@
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2022-05-29 23:25:40 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-01-13 23:27:49 +0900"
     },
     "done": true
   },
