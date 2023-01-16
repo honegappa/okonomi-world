@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_candle": {
+    "criteria": {
+      "has_lime_dye": "2023-01-15 21:59:25 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2022-12-22 00:29:46 +0900"
@@ -432,6 +438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2023-01-15 21:03:57 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2022-06-01 20:23:43 +0900"
@@ -483,6 +495,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-12-20 22:21:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2023-01-15 21:03:57 +0900"
     },
     "done": true
   },
@@ -1004,6 +1022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2023-01-15 21:59:04 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2022-12-20 22:26:29 +0900"
@@ -1082,6 +1106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2023-01-15 19:31:51 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2022-12-21 01:30:58 +0900"
@@ -1121,6 +1151,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2022-12-20 22:19:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2023-01-15 21:03:57 +0900"
     },
     "done": true
   },
@@ -1968,6 +2004,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2023-01-15 22:00:13 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2022-06-01 21:02:47 +0900"
@@ -2001,6 +2043,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-12-20 21:53:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2023-01-15 19:29:43 +0900"
     },
     "done": true
   },
@@ -2132,6 +2180,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2023-01-15 22:03:12 +0900",
       "cooked_beef": "2022-06-01 13:57:27 +0900",
       "baked_potato": "2022-06-01 14:03:29 +0900",
       "beetroot_soup": "2022-06-02 16:15:29 +0900",
@@ -2139,7 +2188,9 @@
       "bread": "2022-06-01 17:52:49 +0900",
       "golden_apple": "2023-01-13 21:10:31 +0900",
       "golden_carrot": "2022-12-20 23:08:20 +0900",
-      "cod": "2023-01-05 20:16:14 +0900"
+      "cod": "2023-01-05 20:16:14 +0900",
+      "cooked_salmon": "2023-01-15 21:08:55 +0900",
+      "carrot": "2023-01-15 21:57:29 +0900"
     },
     "done": false
   },
@@ -2810,6 +2861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2023-01-15 21:54:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2022-06-01 17:11:14 +0900"
@@ -2975,6 +3032,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2022-12-20 22:21:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2023-01-15 21:59:04 +0900"
     },
     "done": true
   },
