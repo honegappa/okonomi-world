@@ -3366,6 +3366,7 @@
       "minecraft:sunflower_plains": "2022-01-10 21:33:42 +0900",
       "minecraft:birch_forest": "2022-01-01 18:53:50 +0900",
       "minecraft:windswept_hills": "2021-12-31 21:43:42 +0900",
+      "minecraft:savanna_plateau": "2023-01-16 22:21:42 +0900",
       "minecraft:beach": "2021-12-31 22:01:04 +0900",
       "minecraft:dark_forest": "2022-01-09 00:13:14 +0900",
       "minecraft:river": "2021-12-31 21:53:54 +0900",
@@ -3944,6 +3945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2023-01-16 22:19:30 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2023-01-15 23:15:58 +0900"
@@ -4295,6 +4302,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2021-12-31 23:31:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2023-01-16 20:49:22 +0900"
     },
     "done": true
   },

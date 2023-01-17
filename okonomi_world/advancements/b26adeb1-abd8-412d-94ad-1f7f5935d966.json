@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-01-16 20:08:20 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-31 10:56:30 +0900"
@@ -1275,6 +1281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2023-01-16 20:08:20 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2021-12-30 22:15:38 +0900"
@@ -1560,6 +1572,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2021-12-31 10:49:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/bullseye": {
+    "criteria": {
+      "bullseye": "2023-01-16 21:05:42 +0900"
     },
     "done": true
   },
@@ -2009,6 +2027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2023-01-16 20:08:20 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2022-02-17 21:37:48 +0900"
@@ -2153,6 +2177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-01-16 20:08:20 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2021-12-31 10:49:46 +0900"
@@ -2276,6 +2306,12 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2022-01-01 15:43:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-01-16 20:08:20 +0900"
     },
     "done": true
   },
@@ -2706,6 +2742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2023-01-16 20:08:20 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2021-12-30 22:08:02 +0900"
@@ -3022,6 +3064,12 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2022-01-11 22:42:40 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2023-01-16 20:08:20 +0900"
     },
     "done": true
   },
@@ -3370,6 +3418,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-12-31 11:53:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2023-01-16 20:08:20 +0900"
     },
     "done": true
   },
@@ -4750,6 +4804,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2022-01-06 21:59:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2023-01-16 20:08:20 +0900"
     },
     "done": true
   },
