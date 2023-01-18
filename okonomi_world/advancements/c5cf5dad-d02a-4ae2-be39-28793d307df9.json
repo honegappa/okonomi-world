@@ -1763,6 +1763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2023-01-17 20:14:54 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-01-01 19:09:10 +0900"
@@ -2542,6 +2548,12 @@
     "criteria": {
       "has_rabbit_hide": "2022-08-14 02:06:58 +0900",
       "has_string": "2022-08-14 02:06:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2023-01-17 20:58:46 +0900"
     },
     "done": true
   },
