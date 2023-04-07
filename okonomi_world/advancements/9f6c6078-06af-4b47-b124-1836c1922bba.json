@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2023-04-06 22:58:57 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2022-06-15 11:22:09 +0900"
@@ -122,6 +128,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2022-06-15 18:57:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2023-04-06 21:08:57 +0900"
     },
     "done": true
   },
@@ -299,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2023-04-06 23:07:50 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2022-06-15 23:53:59 +0900"
@@ -435,6 +453,12 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2022-06-16 18:05:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2023-04-06 22:59:14 +0900"
     },
     "done": true
   },
@@ -720,6 +744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2023-04-06 22:56:33 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2022-09-15 21:58:58 +0900"
@@ -816,6 +846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2023-04-06 22:57:55 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2022-06-13 18:47:13 +0900"
@@ -849,6 +885,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2022-09-04 17:39:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2023-04-06 22:57:55 +0900"
     },
     "done": true
   },
@@ -903,6 +945,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2022-06-15 18:57:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2023-04-06 22:56:32 +0900"
     },
     "done": true
   },
@@ -1122,6 +1170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2023-04-06 22:57:55 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2022-06-13 18:47:13 +0900"
@@ -1179,6 +1233,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2022-06-15 17:20:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2023-04-06 21:08:57 +0900"
     },
     "done": true
   },
@@ -1587,6 +1647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2023-04-06 23:44:39 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2022-09-04 15:27:19 +0900"
@@ -1770,7 +1836,8 @@
       "cooked_cod": "2023-04-05 15:26:21 +0900",
       "bread": "2022-06-15 20:51:53 +0900",
       "melon_slice": "2023-02-06 22:05:33 +0900",
-      "cooked_chicken": "2022-06-13 20:03:36 +0900"
+      "cooked_chicken": "2022-06-13 20:03:36 +0900",
+      "cooked_salmon": "2023-04-06 22:39:32 +0900"
     },
     "done": false
   },
@@ -2214,6 +2281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2023-04-06 21:08:57 +0900"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2022-06-16 19:21:58 +0900"
@@ -2292,6 +2365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2023-04-06 21:22:15 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2022-06-15 18:57:59 +0900"
@@ -2355,6 +2434,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2022-06-13 18:24:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2023-04-06 23:48:59 +0900"
     },
     "done": true
   },
@@ -2562,6 +2647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2023-04-06 23:05:01 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-06-14 21:58:36 +0900"
@@ -2677,6 +2768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2023-04-06 21:08:57 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_candle": {
     "criteria": {
       "has_light_blue_dye": "2022-09-16 20:47:23 +0900"
@@ -2788,6 +2885,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-06-15 11:22:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2023-04-06 23:48:59 +0900"
     },
     "done": true
   },
