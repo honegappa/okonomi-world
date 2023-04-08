@@ -1419,8 +1419,10 @@
     "criteria": {
       "minecraft:taiga": "2022-06-13 18:49:24 +0900",
       "minecraft:deep_ocean": "2022-06-13 18:47:17 +0900",
+      "minecraft:sunflower_plains": "2023-04-07 22:08:36 +0900",
       "minecraft:birch_forest": "2022-06-07 23:41:04 +0900",
       "minecraft:windswept_hills": "2022-06-07 23:29:42 +0900",
+      "minecraft:savanna_plateau": "2023-04-07 22:00:34 +0900",
       "minecraft:beach": "2022-06-07 23:34:23 +0900",
       "minecraft:dark_forest": "2022-06-13 18:52:37 +0900",
       "minecraft:sparse_jungle": "2022-06-13 19:01:17 +0900",
@@ -1439,6 +1441,7 @@
       "minecraft:flower_forest": "2022-06-13 18:14:55 +0900",
       "minecraft:old_growth_birch_forest": "2022-06-08 00:09:21 +0900",
       "minecraft:meadow": "2022-06-13 19:34:25 +0900",
+      "minecraft:savanna": "2023-04-07 22:00:46 +0900",
       "minecraft:plains": "2022-06-07 23:40:20 +0900"
     },
     "done": false
@@ -2084,13 +2087,16 @@
       "apple": "2022-06-10 09:48:39 +0900",
       "spider_eye": "2022-06-15 22:53:36 +0900",
       "potato": "2022-06-14 22:33:11 +0900",
+      "cooked_cod": "2023-04-07 23:39:28 +0900",
       "bread": "2022-06-14 23:52:14 +0900",
       "rotten_flesh": "2022-06-08 19:06:55 +0900",
       "salmon": "2022-06-09 00:08:07 +0900",
       "dried_kelp": "2022-06-10 23:44:16 +0900",
       "melon_slice": "2023-04-07 00:00:12 +0900",
       "golden_carrot": "2022-06-15 22:58:23 +0900",
-      "cooked_chicken": "2022-06-10 22:51:46 +0900"
+      "beetroot": "2023-04-08 01:04:55 +0900",
+      "cooked_chicken": "2022-06-10 22:51:46 +0900",
+      "carrot": "2023-04-07 21:29:30 +0900"
     },
     "done": false
   },
@@ -2430,6 +2436,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2022-06-08 23:56:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2023-04-07 22:34:35 +0900"
     },
     "done": true
   },
@@ -3030,6 +3042,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2022-06-13 18:46:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-04-07 22:34:35 +0900"
     },
     "done": true
   },
