@@ -1542,7 +1542,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:soul_sand_valley": "2022-06-16 19:21:59 +0900",
-      "minecraft:nether_wastes": "2022-09-04 15:24:06 +0900"
+      "minecraft:nether_wastes": "2022-09-04 15:24:06 +0900",
+      "minecraft:warped_forest": "2023-04-29 21:13:06 +0900"
     },
     "done": false
   },
@@ -1945,6 +1946,7 @@
       "cooked_cod": "2023-04-05 15:26:21 +0900",
       "bread": "2022-06-15 20:51:53 +0900",
       "melon_slice": "2023-02-06 22:05:33 +0900",
+      "golden_carrot": "2023-04-29 21:54:39 +0900",
       "cooked_chicken": "2022-06-13 20:03:36 +0900",
       "cooked_salmon": "2023-04-06 22:39:32 +0900"
     },
@@ -2699,6 +2701,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2022-06-15 18:57:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2023-04-29 21:52:22 +0900"
     },
     "done": true
   },
