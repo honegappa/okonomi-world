@@ -654,6 +654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2023-05-04 15:47:36 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-28 16:20:57 +0900"
@@ -990,6 +996,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2023-05-04 16:13:03 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-09-05 19:22:06 +0900"
@@ -1101,6 +1113,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2023-04-16 19:14:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2023-05-04 15:47:36 +0900"
     },
     "done": true
   },
@@ -1694,6 +1712,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2022-09-04 16:56:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2023-05-04 15:58:14 +0900"
     },
     "done": true
   },
@@ -2728,6 +2752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2023-05-04 15:47:36 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2022-06-13 19:04:23 +0900"
@@ -3130,6 +3160,12 @@
       "has_stone": "2022-06-15 11:22:09 +0900"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:siamese": "2023-05-04 16:09:43 +0900"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
