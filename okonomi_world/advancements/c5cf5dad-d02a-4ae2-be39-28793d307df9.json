@@ -281,15 +281,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
-    "criteria": {
-      "has_logs": "2023-01-28 23:59:21 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
       "has_magenta_wool": "2023-01-28 23:23:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2023-01-28 23:59:21 +0900"
     },
     "done": true
   },
