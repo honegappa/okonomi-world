@@ -15,7 +15,8 @@
       "minecraft:forest": "2023-06-23 23:26:01 +0900",
       "minecraft:windswept_forest": "2023-06-25 00:29:07 +0900",
       "minecraft:windswept_savanna": "2023-06-24 23:49:16 +0900",
-      "minecraft:old_growth_birch_forest": "2023-06-25 00:33:36 +0900"
+      "minecraft:old_growth_birch_forest": "2023-06-25 00:33:36 +0900",
+      "minecraft:plains": "2023-06-25 23:10:17 +0900"
     },
     "done": false
   },
@@ -423,7 +424,9 @@
       "minecraft:skeleton": "2023-06-23 23:39:50 +0900",
       "minecraft:spider": "2023-06-24 01:11:20 +0900",
       "minecraft:creeper": "2023-06-24 01:10:28 +0900",
-      "minecraft:zombie": "2023-06-23 23:38:49 +0900"
+      "minecraft:enderman": "2023-06-25 22:49:19 +0900",
+      "minecraft:zombie": "2023-06-23 23:38:49 +0900",
+      "minecraft:drowned": "2023-06-25 22:48:49 +0900"
     },
     "done": false
   },
@@ -1657,12 +1660,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2023-06-25 00:36:43 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2023-06-25 00:35:46 +0900"
@@ -1672,12 +1669,6 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2023-06-25 00:35:46 +0900"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2023-06-25 00:44:43 +0900"
     },
     "done": true
   },
@@ -1720,6 +1711,30 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2023-06-25 00:35:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2023-06-25 00:36:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2023-06-25 00:44:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2023-06-25 22:54:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2023-06-25 22:54:24 +0900"
     },
     "done": true
   },
