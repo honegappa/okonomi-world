@@ -1318,15 +1318,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2023-06-26 22:48:14 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2023-06-26 22:36:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2023-06-26 22:48:14 +0900"
     },
     "done": true
   },
