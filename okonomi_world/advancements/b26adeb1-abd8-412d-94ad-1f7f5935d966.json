@@ -622,6 +622,7 @@
       "minecraft:slime": "2023-06-24 23:44:54 +0900",
       "minecraft:phantom": "2023-06-25 23:00:56 +0900",
       "minecraft:zombified_piglin": "2023-06-25 19:46:50 +0900",
+      "minecraft:witch": "2023-07-01 20:38:54 +0900",
       "minecraft:cave_spider": "2023-06-24 23:31:02 +0900",
       "minecraft:enderman": "2023-06-25 17:07:13 +0900",
       "minecraft:stray": "2023-06-26 20:28:46 +0900",
@@ -2806,6 +2807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2023-06-29 21:59:58 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2023-06-29 22:15:57 +0900"
@@ -2830,17 +2837,47 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2023-06-29 21:59:58 +0900"
-    },
-    "done": true
-  },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "minecraft:ragdoll": "2023-06-29 22:58:31 +0900"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2023-07-01 21:03:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2023-07-01 21:03:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2023-07-01 21:03:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2023-07-01 21:39:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2023-07-01 21:39:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2023-07-01 21:39:04 +0900"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
