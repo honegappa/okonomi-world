@@ -7,32 +7,43 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2023-07-04 23:10:35 +0900",
       "minecraft:taiga": "2023-06-24 23:00:59 +0900",
+      "minecraft:deep_ocean": "2023-07-04 23:12:19 +0900",
       "minecraft:frozen_river": "2023-06-25 23:51:08 +0900",
       "minecraft:cherry_grove": "2023-06-24 23:09:31 +0900",
       "minecraft:birch_forest": "2023-06-24 01:43:38 +0900",
       "minecraft:windswept_hills": "2023-06-24 01:37:04 +0900",
       "minecraft:bamboo_jungle": "2023-06-24 21:20:18 +0900",
+      "minecraft:wooded_badlands": "2023-07-04 23:39:54 +0900",
       "minecraft:beach": "2023-06-24 00:58:53 +0900",
       "minecraft:dark_forest": "2023-06-24 01:43:44 +0900",
+      "minecraft:sparse_jungle": "2023-07-04 23:18:48 +0900",
       "minecraft:river": "2023-06-24 01:09:16 +0900",
       "minecraft:lukewarm_ocean": "2023-06-24 21:24:50 +0900",
       "minecraft:snowy_plains": "2023-06-25 23:49:03 +0900",
+      "minecraft:stony_shore": "2023-07-04 23:06:52 +0900",
       "minecraft:snowy_taiga": "2023-06-25 23:51:14 +0900",
       "minecraft:cold_ocean": "2023-06-25 23:52:52 +0900",
       "minecraft:forest": "2023-06-24 00:59:10 +0900",
       "minecraft:lush_caves": "2023-06-24 01:47:41 +0900",
+      "minecraft:deep_cold_ocean": "2023-07-04 23:09:03 +0900",
       "minecraft:ice_spikes": "2023-06-27 14:48:30 +0900",
       "minecraft:frozen_ocean": "2023-06-25 23:52:06 +0900",
+      "minecraft:desert": "2023-07-04 23:39:41 +0900",
       "minecraft:windswept_forest": "2023-06-24 01:37:12 +0900",
       "minecraft:ocean": "2023-06-24 01:52:49 +0900",
       "minecraft:jungle": "2023-06-24 21:19:45 +0900",
       "minecraft:old_growth_spruce_taiga": "2023-06-27 15:07:52 +0900",
       "minecraft:snowy_beach": "2023-06-25 23:52:01 +0900",
       "minecraft:windswept_savanna": "2023-06-25 01:06:43 +0900",
+      "minecraft:warm_ocean": "2023-07-04 23:40:21 +0900",
+      "minecraft:deep_lukewarm_ocean": "2023-07-04 23:43:31 +0900",
+      "minecraft:flower_forest": "2023-07-04 23:06:35 +0900",
       "minecraft:old_growth_birch_forest": "2023-06-24 01:37:21 +0900",
       "minecraft:meadow": "2023-06-24 23:09:38 +0900",
       "minecraft:windswept_gravelly_hills": "2023-06-24 21:28:23 +0900",
+      "minecraft:savanna": "2023-07-04 23:15:12 +0900",
       "minecraft:plains": "2023-06-24 21:28:07 +0900"
     },
     "done": false
@@ -3369,6 +3380,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2023-07-03 19:23:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2023-07-03 19:23:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2023-07-03 19:23:54 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2023-07-03 21:33:25 +0900"
@@ -3378,12 +3407,6 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2023-07-03 21:33:25 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_bed": {
-    "criteria": {
-      "has_blue_wool": "2023-07-03 19:23:54 +0900"
     },
     "done": true
   },
@@ -3411,18 +3434,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_carpet": {
-    "criteria": {
-      "has_blue_wool": "2023-07-03 19:23:54 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_banner": {
-    "criteria": {
-      "has_blue_wool": "2023-07-03 19:23:54 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2023-07-03 21:33:25 +0900"
@@ -3438,6 +3449,102 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2023-07-03 21:33:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2023-07-05 00:33:02 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2023-07-05 01:03:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2023-07-05 00:12:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2023-07-05 01:03:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2023-07-05 00:12:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2023-07-05 00:12:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2023-07-05 00:12:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2023-07-05 00:12:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2023-07-05 00:12:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2023-07-05 01:03:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2023-07-05 00:12:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2023-07-05 00:12:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2023-07-05 00:12:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2023-07-05 00:12:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2023-07-05 00:12:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2023-07-05 00:47:21 +0900"
     },
     "done": true
   },
