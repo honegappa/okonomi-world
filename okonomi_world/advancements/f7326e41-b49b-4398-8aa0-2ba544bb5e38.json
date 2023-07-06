@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2023-07-06 00:12:29 +0900",
       "minecraft:windswept_hills": "2023-07-04 06:16:09 +0900",
       "minecraft:beach": "2023-06-24 02:18:43 +0900",
       "minecraft:river": "2023-07-03 06:41:52 +0900",
@@ -341,6 +342,7 @@
       "cooked_cod": "2023-06-25 00:16:34 +0900",
       "pufferfish": "2023-06-24 23:10:43 +0900",
       "bread": "2023-07-05 00:47:25 +0900",
+      "dried_kelp": "2023-07-06 01:50:52 +0900",
       "golden_carrot": "2023-07-05 06:27:47 +0900",
       "cooked_salmon": "2023-06-24 02:57:08 +0900"
     },
@@ -1081,6 +1083,24 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2023-07-05 06:36:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2023-07-06 01:50:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2023-07-06 01:53:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2023-07-06 01:53:53 +0900"
     },
     "done": true
   },

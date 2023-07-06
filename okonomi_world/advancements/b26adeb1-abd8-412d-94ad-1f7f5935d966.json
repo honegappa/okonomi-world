@@ -2961,5 +2961,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2023-07-05 22:20:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2023-07-05 22:10:45 +0900"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
