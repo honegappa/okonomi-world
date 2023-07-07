@@ -272,6 +272,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2023-07-07 00:19:29 +0900",
       "apple": "2023-06-24 00:45:31 +0900",
       "cooked_cod": "2023-06-24 01:09:52 +0900",
       "bread": "2023-07-04 22:11:17 +0900"
@@ -1533,6 +1534,18 @@
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2023-07-05 00:36:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2023-07-07 00:57:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2023-07-07 00:57:12 +0900"
     },
     "done": true
   },
