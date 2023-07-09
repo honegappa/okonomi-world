@@ -343,6 +343,7 @@
       "pufferfish": "2023-06-24 23:10:43 +0900",
       "bread": "2023-07-05 00:47:25 +0900",
       "dried_kelp": "2023-07-06 01:50:52 +0900",
+      "salmon": "2023-07-08 22:49:18 +0900",
       "golden_carrot": "2023-07-05 06:27:47 +0900",
       "cooked_salmon": "2023-06-24 02:57:08 +0900"
     },
@@ -1131,6 +1132,24 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2023-07-06 18:09:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2023-07-08 22:49:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2023-07-08 22:49:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2023-07-08 22:49:14 +0900"
     },
     "done": true
   },
