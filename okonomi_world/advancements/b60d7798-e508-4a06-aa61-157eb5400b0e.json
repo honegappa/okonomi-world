@@ -3211,12 +3211,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2023-07-11 17:39:54 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2023-07-11 17:30:08 +0900"
@@ -3229,9 +3223,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
-      "has_basalt": "2023-07-11 17:39:54 +0900"
+      "has_warped_fungus": "2023-07-11 17:31:42 +0900"
     },
     "done": true
   },
@@ -3241,15 +3235,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt": {
+  "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2023-07-11 17:39:54 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
-      "has_warped_fungus": "2023-07-11 17:31:42 +0900"
+      "has_basalt": "2023-07-11 17:39:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2023-07-11 17:39:54 +0900"
     },
     "done": true
   },

@@ -582,6 +582,8 @@
       "minecraft:spider": "2023-06-24 01:12:58 +0900",
       "minecraft:piglin_brute": "2023-06-25 00:47:15 +0900",
       "minecraft:creeper": "2023-06-24 01:08:48 +0900",
+      "minecraft:wither": "2023-07-13 00:49:45 +0900",
+      "minecraft:slime": "2023-07-13 00:53:59 +0900",
       "minecraft:phantom": "2023-07-10 21:38:15 +0900",
       "minecraft:zombified_piglin": "2023-06-25 22:00:09 +0900",
       "minecraft:witch": "2023-06-25 15:13:45 +0900",
@@ -3937,9 +3939,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
-      "has_oxeye_daisy": "2023-07-11 20:16:44 +0900"
+      "has_lily_of_the_valley": "2023-07-11 20:12:22 +0900"
     },
     "done": true
   },
@@ -3949,27 +3951,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2023-07-11 20:12:22 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2023-07-11 20:14:45 +0900"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2023-07-11 21:40:48 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2023-07-11 20:16:44 +0900"
     },
     "done": true
   },
@@ -3979,9 +3963,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2023-07-11 20:16:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2023-07-11 20:16:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2023-07-11 21:40:48 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2023-07-11 21:40:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2023-07-13 01:19:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2023-07-13 00:54:00 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2023-07-13 01:06:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2023-07-12 23:52:41 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2023-07-13 00:54:00 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2023-07-13 01:19:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2023-07-13 00:49:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2023-07-13 00:49:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2023-07-13 00:54:00 +0900"
     },
     "done": true
   },
