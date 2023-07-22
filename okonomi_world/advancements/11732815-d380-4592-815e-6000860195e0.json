@@ -395,6 +395,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2023-07-22 04:28:06 +0900",
       "cooked_mutton": "2023-07-10 01:01:50 +0900",
       "baked_potato": "2023-07-10 00:54:06 +0900",
       "bread": "2023-07-04 23:27:59 +0900",
@@ -2207,15 +2208,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_bed": {
+  "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
-      "has_light_blue_wool": "2023-07-22 03:34:07 +0900"
+      "has_coal": "2023-07-22 03:04:18 +0900"
     },
     "done": true
   },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2023-07-22 03:32:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2023-07-22 03:34:07 +0900"
     },
     "done": true
   },
@@ -2231,9 +2238,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coal_block": {
+  "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
-      "has_coal": "2023-07-22 03:04:18 +0900"
+      "has_gunpowder": "2023-07-22 04:24:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2023-07-22 04:24:59 +0900"
     },
     "done": true
   },
