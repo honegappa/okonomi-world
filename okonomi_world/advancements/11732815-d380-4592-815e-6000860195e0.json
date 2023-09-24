@@ -21,6 +21,8 @@
       "minecraft:ice_spikes": "2023-07-10 00:18:39 +0900",
       "minecraft:frozen_ocean": "2023-08-20 01:15:11 +0900",
       "minecraft:windswept_forest": "2023-07-09 23:40:28 +0900",
+      "minecraft:jungle": "2023-09-24 02:50:16 +0900",
+      "minecraft:ocean": "2023-09-24 02:45:59 +0900",
       "minecraft:snowy_beach": "2023-08-20 01:14:51 +0900",
       "minecraft:windswept_savanna": "2023-07-04 23:25:51 +0900",
       "minecraft:old_growth_birch_forest": "2023-07-09 23:36:06 +0900",
@@ -2491,6 +2493,42 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2023-09-17 00:20:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2023-09-24 02:49:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2023-09-24 02:49:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2023-09-24 02:51:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2023-09-24 02:58:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2023-09-24 02:51:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2023-09-24 02:58:31 +0900"
     },
     "done": true
   },
